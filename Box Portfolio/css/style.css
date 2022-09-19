@@ -43,7 +43,7 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: rgb(70, 84, 206)
+    color: #A0616E 
 }
 
 .no-padding {
@@ -79,11 +79,6 @@ a {
 
 .h-10 {
     height: 10px
-}
-
-.color {
-    color: #000000;
-    font-size: 11px;
 }
 
 
@@ -227,7 +222,7 @@ h5 {
 }
 
 .box-header.menu-is-open {
-    background-color: rgba(255, 255, 255, 0.96);
+    background-color: #ffffff;
 }
 
 .box-logo {
@@ -297,7 +292,7 @@ h5 {
 
 .box-primary-nav-trigger .box-menu-icon.is-clicked::before,
 .box-primary-nav-trigger .box-menu-icon.is-clicked::after {
-    background-color: 393939;
+    background-color: #283747;
 }
 
 .box-primary-nav-trigger .box-menu-icon.is-clicked::before {
@@ -342,7 +337,7 @@ h5 {
     top: 0;
     height: 100%;
     width: 100%;
-    background: rgba(0, 0, 0, 0.96);
+    background: rgba(13, 13, 34, 0.96);
     z-index: 2;
     text-align: center;
     padding: 50px 0;
@@ -391,7 +386,7 @@ h5 {
 }
 
 .box-primary-nav .box-label {
-    color: #ffbf00;
+    color: #B8707A;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 17px;
