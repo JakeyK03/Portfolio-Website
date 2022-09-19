@@ -903,8 +903,8 @@ footer img {
 .top-bar {
     color: #333;
     padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
+    background: -webkit-linear-gradient( #932433a6, #3b187491), url(../img/car.jpg);
+    background: linear-gradient( #932433a6, #3b187491), url(../img/car.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -915,7 +915,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: #283747;
     line-height: 50px;
 }
 
@@ -923,11 +923,11 @@ footer img {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #777;
+    color: #F5F5F5;
 }
 
 .top-bar p a {
-    color: #777;
+    color: #F5F5F5;
 }
 
 .top-bar p a:hover,
